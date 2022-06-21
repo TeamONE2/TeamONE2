@@ -1,6 +1,6 @@
 <br id="topo">
 
-<h1 align="center"> FATEC Juigi Papaiz</h1>
+<h1 align="center"> FATEC Luigi Papaiz</h1>
 
 <p align="center">
     <a href="#sobre">Sobre</a> | 
