@@ -22,7 +22,9 @@ Desenvolver um software que facilite o processo de gerenciamento de produtos nos
   
   
   
-  
+<span id="equipe">
+
+## :busts_in_silhouette: Equipe  
   
   |    Função    | Nome                     |                               LinkedIn                                |                     GitHub                     |
 | :----------: | :----------------------- | :-------------------------------------------------------------------: | :--------------------------------------------: |
